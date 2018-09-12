@@ -1,0 +1,8 @@
+telepot
+requests
+winshell
+tendo
+pypiwin32
+pillow
+pyinstaller
+pyaudio
