@@ -23,7 +23,7 @@ Get target PC's IP address information and approximate location on map
 
 --> Upload local files to the target. Send your image, pdf, exe or anything as file to the Telegram bot
 
---> Autostart playing a video in fullscreen and no controls for a youtube video on target
+--> Playing youtube Video
 
 --> Take Screenshots
 
