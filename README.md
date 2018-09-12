@@ -5,11 +5,11 @@ https://github.com/mvrozanti/RAT-via-Telegram
 
 
 # Features
-Keylogger with window title log included
+--> Keylogger with window title log included
 
-Get target PC's Windows version, processor and more
+--> Get target PC's Windows version, processor and more
 
-Get target PC's IP address information and approximate location on map
+--> Get target PC's IP address information and approximate location on map
 
 --> Delete, Move files
 
