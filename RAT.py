@@ -63,7 +63,7 @@ try:
 	else:
 		x = 7
 except:
-	print x = 42
+	x = 42
 	
 
 curr_window = None
