@@ -40,6 +40,7 @@ ChatID = 'put your Chat ID Here'                                   # this bot ca
 
 if not app_name in argv[0]:
 	cmd = "taskkill -f -im " + app_name + ".exe"     # this makes the bot update if the exe's name is not app_name
+	os.system(cmd)
 
 
 appdata_roaming_folder = os.environ['APPDATA']
